@@ -10,6 +10,7 @@ Este repositório serve como meu diário de bordo enquanto embarco nesta jornada
 
 Neste repositório, você encontrará:
 
-- Implementações de algoritmos em várias linguagens de programação, desde Python até C++ e além.
+- Implementações de algoritmos em várias linguagens de programação, desde Python, Javascript, Go e além. (piadinha com GOlang)
 - Explicações detalhadas de cada algoritmo, acompanhadas de exemplos práticos para ilustrar seu funcionamento.
 - Desafios de programação para testar e consolidar meu entendimento dos conceitos abordados.
+
