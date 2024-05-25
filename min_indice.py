@@ -21,6 +21,9 @@ def order_arr(arr):
     return sorted_arr
 
 
-arr1 = [11, 1, 90, 3, 5, 7, 9]
-sorted_arr = order_arr(arr1)
-print(sorted_arr)
+arr1 = ["Melão", "Uva", "Mamão", "Banana", "Abobora"]
+arr2 = [4, 55, 7, 89, 1, 2, 34, 5, 10]
+sort_numbers = sorted(arr2)
+sort_fruts = order_arr(arr1)
+print(sort_fruts)
+print(sort_numbers)
