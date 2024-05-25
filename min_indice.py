@@ -21,7 +21,7 @@ def order_arr(arr):
     return sorted_arr
 
 
-arr1 = ["Melão", "Uva", "Mamão", "Banana", "Abobora"]
+arr1 = ["Melão", "Uva", "Mamão", "Banana", "Abobora", "Melancia", "Cereja"]
 arr2 = [4, 55, 7, 89, 1, 2, 34, 5, 10]
 sort_numbers = sorted(arr2)
 sort_fruts = order_arr(arr1)
