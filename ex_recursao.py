@@ -1,6 +1,6 @@
-caixa_sala = [["chave"], [], []]
+caixa_sala = [[], [], []]
 caixas_cozinha = [[], [], []]
-caixas_quarto = [[], [], []]
+caixas_quarto = [[], ["chave"], []]
 
 caixas = [caixa_sala, caixas_cozinha, caixas_quarto]
 
