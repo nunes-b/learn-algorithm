@@ -7,6 +7,6 @@ func fatorial(n int) int {
 	return n * fatorial(n-1)
 }
 
-func main() {
+func test() {
 	println(fatorial(3))
 }
